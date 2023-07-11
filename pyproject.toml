@@ -10,6 +10,8 @@ packages = [{include = "botanim_bot"}]
 python = "^3.11"
 python-telegram-bot = "^20.4"
 python-dotenv = "^1.0.0"
+pytest="^7.4.0"
+
 
 [tool.poetry.group.dev.dependencies]
 pyright = "^1.1.316"
