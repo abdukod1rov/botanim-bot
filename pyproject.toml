@@ -4,13 +4,14 @@ version = "0.1.0"
 description = ""
 authors = ["samandar7 <abdukodirovsamandar8@gmail.com>"]
 readme = "README.md"
-packages = [{include = "botanim_bot"}]
+packages = [{ include = "botanim_bot" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 python-telegram-bot = "^20.4"
 python-dotenv = "^1.0.0"
-pytest="^7.4.0"
+pytest = "^7.4.0"
+aiosqlite = "^0.19.0"
 
 
 [tool.poetry.group.dev.dependencies]
