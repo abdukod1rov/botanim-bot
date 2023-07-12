@@ -7,7 +7,7 @@ Join our club https://botanim.to.digital
 Bot commands:
 
 /start - Приветсвенное сообшение
-/allboooks - все книгиб который  в нашем списке
+/allbooks - все книгиб который  в нашем списке
 /already - прочитанные книги
 /now - книгаб которую сейчас читаем
 /vote- проголосовать за следющую книгу
